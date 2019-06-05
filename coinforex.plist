@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>app 的 bundleID</string>
+                <string>com.mfinance.coinforex</string>
                 <key>bundle-version</key>
-                <string>版本号</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>下载标题</string>
+                <string>下载</string>
             </dict>
         </dict>
     </array>
